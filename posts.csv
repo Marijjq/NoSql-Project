@@ -1,0 +1,31 @@
+post_id,user_id,content,timestamp
+1,1,This is my first post!,2024-01-01 12:00:00
+2,2,"Hello everyone, excited to be here!",2024-01-02 12:00:00
+3,3,Coding is life!,2024-01-03 12:00:00
+4,4,Just visited an amazing place!,2024-01-04 12:00:00
+5,5,Check out my latest recipe!,2024-01-05 12:00:00
+6,6,Workout routine update.,2024-01-06 12:00:00
+7,7,New gadget review!,2024-01-07 12:00:00
+8,8,Favorite book this month.,2024-01-08 12:00:00
+9,9,Hiking adventures!,2024-01-09 12:00:00
+10,10,Top songs on my playlist.,2024-01-10 12:00:00
+11,11,Must-watch movies.,2024-01-11 12:00:00
+12,12,Bird watching in the park.,2024-01-12 12:00:00
+13,13,Starting a new tech project!,2024-01-13 12:00:00
+14,14,My latest painting.,2024-01-14 12:00:00
+15,15,Thoughts on the big game.,2024-01-15 12:30:00
+16,1,This is my first post!,2024-01-01 12:00:00
+17,2,"Hello everyone, excited to be here!",2024-01-02 12:00:00
+18,3,Coding is life!,2024-01-03 12:00:00
+19,4,Just visited an amazing place!,2024-01-04 12:00:00
+20,5,Check out my latest recipe!,2024-01-05 12:00:00
+21,6,Workout routine update.,2024-01-06 12:00:00
+22,7,New gadget review!,2024-01-07 12:00:00
+23,8,Favorite book this month.,2024-01-08 12:00:00
+24,9,Hiking adventures!,2024-01-09 12:00:00
+25,10,Top songs on my playlist.,2024-01-10 12:00:00
+26,11,Must-watch movies.,2024-01-11 12:00:00
+27,12,Bird watching in the park.,2024-01-12 12:00:00
+28,13,Starting a new tech project!,2024-01-13 12:00:00
+29,14,My latest painting.,2024-01-14 12:00:00
+30,15,Thoughts on the big game.,2024-01-15 12:30:00

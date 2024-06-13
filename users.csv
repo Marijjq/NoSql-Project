@@ -1,0 +1,21 @@
+user_id,username,email,password,profile_picture,biography,registration_date
+1,john_doe,john@example.com,hashed_password1,path/to/pic1.jpg,Hello world!,2024-01-01 10:00:00
+2,jane_smith,jane@example.com,hashed_password2,path/to/pic2.jpg,Loving life!,2024-01-02 10:00:00
+3,sam_brown,sam@example.com,hashed_password3,path/to/pic3.jpg,"Coder by day, gamer by night.",2024-01-03 10:00:00
+4,lisa_jones,lisa@example.com,hashed_password4,path/to/pic4.jpg,Love to travel.,2024-01-04 10:00:00
+5,paul_white,paul@example.com,hashed_password5,path/to/pic5.jpg,Foodie.,2024-01-05 10:00:00
+6,karen_davis,karen@example.com,hashed_password6,path/to/pic6.jpg,Fitness enthusiast.,2024-01-06 10:00:00
+7,mike_taylor,mike@example.com,hashed_password7,path/to/pic7.jpg,Tech lover.,2024-01-07 10:00:00
+8,anna_martin,anna@example.com,hashed_password8,path/to/pic8.jpg,Bookworm.,2024-01-08 10:00:00
+9,bob_lee,bob@example.com,hashed_password9,path/to/pic9.jpg,Outdoor adventurer.,2024-01-09 10:00:00
+10,susan_clark,susan@example.com,hashed_password10,path/to/pic10.jpg,Music fanatic.,2024-01-10 10:00:00
+11,tim_evans,tim@example.com,hashed_password11,path/to/pic11.jpg,Movie buff.,2024-01-11 10:00:00
+12,nancy_walker,nancy@example.com,hashed_password12,path/to/pic12.jpg,Nature lover.,2024-01-12 10:00:00
+13,steve_hall,steve@example.com,hashed_password13,path/to/pic13.jpg,Tech entrepreneur.,2024-01-13 10:00:00
+14,carol_adams,carol@example.com,hashed_password14,path/to/pic14.jpg,Artist.,2024-01-14 10:00:00
+15,eric_allen,eric@example.com,hashed_password15,path/to/pic15.jpg,Sports fan.,2024-01-15 10:00:00
+16,rachel_perez,rachel@example.com,hashed_password16,path/to/pic16.jpg,Photographer.,2024-01-16 10:00:00
+17,daniel_king,daniel@example.com,hashed_password17,path/to/pic17.jpg,History buff.,2024-01-17 10:00:00
+18,laura_wright,laura@example.com,hashed_password18,path/to/pic18.jpg,Fashionista.,2024-01-18 10:00:00
+19,kevin_scott,kevin@example.com,hashed_password19,path/to/pic19.jpg,Traveler.,2024-01-19 10:00:00
+20,amy_green,amy@example.com,hashed_password20,path/to/pic20.jpg,Chef.,2024-01-20 10:00:00
